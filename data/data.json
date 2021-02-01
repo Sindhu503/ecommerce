@@ -1,0 +1,25 @@
+{
+	"mobiles":[
+		{
+			"name":"realme 5i",
+			"image":"img/1.jpg",
+			"oPrice":14000,
+			"price":12999
+		},{
+			"name":"Samsung A30",
+			"image":"img/3.jpg",
+			"oPrice":19000,
+			"price":16999
+		},{
+			"name":"redme Note 9pro",
+			"image":"img/4.jpg",
+			"oPrice":18000,
+			"price":17999
+		},{
+			"name":"Apple SE",
+			"image":"img/5.jpg",
+			"oPrice":31000,
+			"price":31000
+		}
+	]
+}
